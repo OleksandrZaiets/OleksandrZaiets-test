@@ -1,0 +1,4 @@
+Hello, user!
+My name is Oleksandr. I am from Odessa.
+I was leaving in Donetsk for ten years.
+Now I'm trying to use Git and WebStorm.
