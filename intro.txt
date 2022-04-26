@@ -2,3 +2,11 @@ Hello, user!
 My name is Oleksandr. I am from Odessa.
 I was leaving in Donetsk for ten years.
 Now I'm trying to use Git and WebStorm.
+
+Hello, Oleksandr!
+My name is Dasha. I am from Zaporizhia.
+I am also from Donetsk, I left it in 2014.
+
+examination
+
+Nice to meet you Oleksandr!
